@@ -1,0 +1,53 @@
+.wrapper {
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  header {
+    
+    background: rgb(0, 64, 97);
+    height: 70px;
+
+    display: flex;
+
+  }
+  header nav ul{
+    display: flex;
+  }
+
+
+  .container {
+    display: flex;
+    width: 1000px;
+    height:650px ;
+    background-image: url(images/index_bg01.png);
+  }
+  ＃menu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .main {
+  
+    margin: 0 auto;
+  }
+  .main img{
+      float: left;
+    }
+ 
+  .img-text{
+      color:white;
+  }
+  .conts{
+      width: 700px;
+      font-size: 10px;
+  }
+  .conts p{
+
+  }
+  .photo{
+    float-left: 150px;
+  }
+  footer {
+    
+  }
